@@ -46,3 +46,12 @@
 [submodule "QEI_driver"]
 	path = QEI_driver
 	url = https://github.com/novalabs/QEI_driver.git
+[submodule "stm32_qei"]
+	path = stm32_qei
+	url = https://github.com/novalabs/stm32_qei.git
+[submodule "stm32_crc"]
+	path = stm32_crc
+	url = https://github.com/novalabs/stm32_crc.git
+[submodule "stm32_flash"]
+	path = stm32_flash
+	url = https://github.com/novalabs/stm32_flash.git
