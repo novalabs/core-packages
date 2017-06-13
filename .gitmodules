@@ -1,0 +1,48 @@
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/novalabs/snippets.git
+[submodule "common_msgs"]
+	path = common_msgs
+	url = https://github.com/novalabs/common_msgs.git
+[submodule "common"]
+	path = common
+	url = https://github.com/novalabs/common.git
+[submodule "led"]
+	path = led
+	url = https://github.com/novalabs/led.git
+[submodule "madgwick"]
+	path = madgwick
+	url = https://github.com/novalabs/madgwick.git
+[submodule "pid"]
+	path = pid
+	url = https://github.com/novalabs/pid.git
+[submodule "pid_msgs"]
+	path = pid_msgs
+	url = https://github.com/novalabs/pid_msgs.git
+[submodule "actuator_msgs"]
+	path = actuator_msgs
+	url = https://github.com/novalabs/actuator_msgs.git
+[submodule "actuator_subscriber"]
+	path = actuator_subscriber
+	url = https://github.com/novalabs/actuator_subscriber.git
+[submodule "sensor_publisher"]
+	path = sensor_publisher
+	url = https://github.com/novalabs/sensor_publisher.git
+[submodule "A4957_driver"]
+	path = A4957_driver
+	url = https://github.com/novalabs/A4957_driver.git
+[submodule "MC33926_driver"]
+	path = MC33926_driver
+	url = https://github.com/novalabs/MC33926_driver.git
+[submodule "L6470_driver"]
+	path = L6470_driver
+	url = https://github.com/novalabs/L6470_driver.git
+[submodule "L3GD20H_driver"]
+	path = L3GD20H_driver
+	url = https://github.com/novalabs/L3GD20H_driver.git
+[submodule "LSM303D_driver"]
+	path = LSM303D_driver
+	url = https://github.com/novalabs/LSM303D_driver.git
+[submodule "QEI_driver"]
+	path = QEI_driver
+	url = https://github.com/novalabs/QEI_driver.git
